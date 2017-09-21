@@ -114,6 +114,7 @@ Misc:
 * [Java 9 Programming By Example](https://www.amazon.co.uk/Java-Programming-Example-Peter-Verhas/dp/178646828X) (Packt; Peter Verhas) - available on [Safari Books online](https://www.safaribooksonline.com/library/view/java-9-programming/9781786468284/)
 * [Java 9 Revealed](http://www.springer.com/gb/book/9781484225912?wt_mc=PPC.Google%20AdWords.3.EPR436.GoogleShopping_Product_UK&gclid=EAIaIQobChMItLHMoK3e1QIVSLHtCh0v8QnCEAQYASABEgIEpfD_BwE) (Springer; Kishori Sharan)
 * [Java 8 & 9 in Action, 2nd Edition](https://www.manning.com/books/java-8-and-9-in-action) (Manning; Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft)
+[Java 9 Modularity Revealaed](https://www.amazon.de/Java-Modularity-Revealed-Scalable-Applications/dp/1484227123/ref=sr_1_1?ie=UTF8&qid=1505994088&sr=8-1&keywords=java+9+modularity+revealed) (Apress; Alexandru Jecan)
 
 ### Courses
 
